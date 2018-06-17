@@ -11,4 +11,5 @@ public class SquareTests {
         Assert.assertEquals(a.area(), 25.0);
     }
 
+
 }
