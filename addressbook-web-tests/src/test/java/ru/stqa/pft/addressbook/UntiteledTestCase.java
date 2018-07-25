@@ -11,9 +11,9 @@ import java.util.concurrent.TimeUnit;
 
 import static org.testng.Assert.fail;
 
-package com.example.tests;
 
-public class UntitledTestCase {
+
+public class UntiteledTestCase {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
